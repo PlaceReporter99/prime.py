@@ -1,0 +1,2 @@
+import prime
+prime.ask()
