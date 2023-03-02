@@ -43,4 +43,3 @@ def ask():
     else:
         quit()
     ask()
-ask()
